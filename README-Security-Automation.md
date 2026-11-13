@@ -1,7 +1,7 @@
 {% raw %}
 <div class="guide-header">
 
-<h1>Security automation with Ansible</h1>
+<h1>Security automation with Ansible Automation Platform</h1>
 
 <span class="guide-type-badge guide-type-badge--solution"><i class="fas fa-check-circle" aria-hidden="true"></i> Solution Guide</span>
 
